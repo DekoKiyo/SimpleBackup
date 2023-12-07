@@ -1,0 +1,3 @@
+[submodule "SimpleBackup-Develop"]
+	path = SimpleBackup-Develop
+	url = https://github.com/DekoKiyo/SimpleBackup-Develop.git
